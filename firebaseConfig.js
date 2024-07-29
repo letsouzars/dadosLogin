@@ -7,7 +7,7 @@ import { getFirestore } from 'firebase/firestore';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDRTmh1UWTQ6jcY9kv-DdUvmKzKfzMg-FY",
+  // apiKey: "AIzaSyDRTmh1UWTQ6jcY9kv-DdUvmKzKfzMg-FY",
   authDomain: "cadastro-fire-a3a1d.firebaseapp.com",
   projectId: "cadastro-fire-a3a1d",
   storageBucket: "cadastro-fire-a3a1d.appspot.com",
